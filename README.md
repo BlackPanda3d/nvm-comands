@@ -2,6 +2,7 @@
 
 
 // check version
+/n
 node -v || node --version
 
 // list locally installed versions of node
